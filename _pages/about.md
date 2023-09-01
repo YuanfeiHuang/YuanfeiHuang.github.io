@@ -15,8 +15,13 @@ My research interests broadly include image and video processing, computer visio
 News
 ======
 Jun 2023  One paper is accepted to KBS, congratulations to Yanting Hu.
+
 Sep 2022  One paper is accepted to IEEE TPAMI.
+
 Jun 2021  One paper is accepted to IEEE TCSVT, congratulations to Yanting Hu.
+
 Jan 2021  One paper is accepted to IEEE TIP.
+
 May 2019  One paper is accepted to IEEE TCSVT, congratulations to Yanting Hu.
+
 Jul 2018  One paper is accepted to IEEE TIP.
