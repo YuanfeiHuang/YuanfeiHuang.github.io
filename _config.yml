@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuanfei Huang/Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuanfei Huang"
 description              : &description "A postdoctoral researcher at Beijing Normal University"
