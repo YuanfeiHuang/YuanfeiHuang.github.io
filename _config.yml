@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuanfei Huang"
-  avatar           : me.jpg
+  avatar           : "me.jpg"
   bio              : "I'm a postdoctoral researcher at Beijing Normal University."
   location         : "Beijing"
   employer         :
