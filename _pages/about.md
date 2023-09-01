@@ -67,3 +67,5 @@ Services
   Computer Vision and Image Understanding (CVIU)
 
   Knowledge-Based Systems (KBS)
+
+  自动化学报
