@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Yuanfei Huang/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yuanfei Huang"
+description              : &description "A postdoctoral researcher at Beijing Normal University"
 url                      : https://yuanfeihuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuanfeiHuang/YuanfeiHuang.github.io"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=HcwtiyUAAAAJ&hl=zh-CN"
   email            :
   researchgate     :
-  uri              : "yfhuang.com"
+  uri              : "yuanfeihuang.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
