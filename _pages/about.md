@@ -12,8 +12,6 @@ I am a postdoctoral researcher at the [School of Artificial Intelligence](ai.bnu
 
 My research interests broadly include image and video processing, computer vision, and machine learning. Specifically, I focus on image super-resolution, (infrared) image denoising, multimodal fusion, invertible neural networks, etc.
 
-Email: yfhuang@bnu.edu.cn
-
 News
 ======
 *Jun 2023*  One paper is accepted to KBS, congratulations to Yanting Hu.
