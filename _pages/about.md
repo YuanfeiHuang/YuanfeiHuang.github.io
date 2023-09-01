@@ -12,58 +12,48 @@ I am a postdoctoral researcher at the [School of Artificial Intelligence](ai.bnu
 
 My research interests broadly include image and video processing, computer vision, and machine learning. Specifically, I focus on image super-resolution, (infrared) image denoising, multimodal fusion, invertible neural networks, etc.
 
-News
-======
-*Jun 2023*  One paper is accepted to KBS, congratulations to Yanting Hu.
+# News
+* **Jun 2023**  One paper is accepted to KBS, congratulations to Yanting Hu.
+* **Sep 2022**  One paper is accepted to IEEE TPAMI.
+* **Jun 2021**  One paper is accepted to IEEE TCSVT, congratulations to Yanting Hu.
+* **Jan 2021**  One paper is accepted to IEEE TIP.
+* **May 2019**  One paper is accepted to IEEE TCSVT, congratulations to Yanting Hu.
+* **Jul 2018**  One paper is accepted to IEEE TIP.
 
-*Sep 2022*  One paper is accepted to IEEE TPAMI.
+# Publications
+## First or Corresponding Author
+* **Yuanfei Huang**, Jie Li, Yanting Hu, Hua Huang and Xinbo Gao, "Deep Convolution Modulation for Image Super-resolution", Under Review, 2023.
+* Yanting Hu, **Yuanfei Huang** and Kaibing Zhang, "Multi-scale information distillation network for efficient image super-resolution", Knowledge-Based Systems (**KBS**), 2023, 275: 110718. [paper](https://www.sciencedirect.com/science/article/pii/S0950705123004689)  [code](https://github.com/YuanfeiHuang/MSID)
+* **Yuanfei Huang**, Jie Li, Yanting Hu, Xinbo Gao and Hua Huang, "Transitive Learning: Exploring the Transitivity of Degradations for Blind Super-Resolution", IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(5): 6495-6510. [paper](https://ieeexplore.ieee.org/document/9893392/)  [code](https://github.com/YuanfeiHuang/TLSR)
+* **Yuanfei Huang**, Jie Li, Xinbo Gao, Yanting Hu and Wen Lu, "Interpretable Detail-Fidelity Attention Network for Single Image Super-Resolution", IEEE Transactions on Image Processing (**TIP**), 2021, 30: 2325-2339.  [paper](https://ieeexplore.ieee.org/document/9334407)  [code](https://github.com/YuanfeiHuang/DeFiAN)
+* **Yuanfei Huang**, Xiaopeng Sun, Wen Lu, Jie Li and Xinbo Gao, "Un-Paired Real World Super-Resolution with Degradation Consistency," in 2019 IEEE/CVF International Conference on Computer Vision Workshop (**ICCV Workshops**), 2019, pp. 3458-3466. (**AIM 2019 Challenge**) [paper](https://ieeexplore.ieee.org/abstract/document/9022113)
+* **Yuanfei Huang**, Jie Li, Xinbo Gao, Wen Lu and Yanting Hu, "Improving Image Super-Resolution via Feature Re-Balancing Fusion," in 2019 IEEE International Conference on Multimedia and Expo (**ICME**), 2019, pp.580-585. (Oral presentation) [paper](https://ieeexplore.ieee.org/document/8784891)
+* **Yuanfei Huang**, Jie Li, Xinbo Gao, Lihuo He and Wen Lu, "Single Image Super-resolution via Multiple Mixture Prior Models", IEEE Transactions on Image Processing (**TIP**), 2018, 27: 5904-5917. [paper](https://ieeexplore.ieee.org/document/8421656)  [code](https://github.com/YuanfeiHuang/MMPM)
 
-*Jun 2021*  One paper is accepted to IEEE TCSVT, congratulations to Yanting Hu.
+## Co-author
+* Yanting Hu, Jie Li, **Yuanfei Huang** and Xinbo Gao, "Image Super-Resolution With Self-Similarity Prior Guided Network and Sample-Discriminating Learning," IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022, 32(4): 1966-1985. [paper](https://ieeexplore.ieee.org/document/9467283)
+* Lize Zhang, Wen Lu, **Yuanfei Huang**, Xiaopeng Sun and Hongyi Zhang, "Unpaired Remote Sensing Image Super-Resolution with Multi-Stage Aggregation Networks", Remote Sensing, 2021, 13(16):3167. [paper](https://www.mdpi.com/2072-4292/13/16/3167)
+* Yanting Hu, Jie Li, **Yuanfei Huang** and Xinbo Gao, "Channel-Wise and Spatial Feature Modulation Network for Single Image Super-Resolution," IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2020, 30(11): 3911-3927. (**ESI Highly Cited Paper**) [paper](https://ieeexplore.ieee.org/document/8708220)
+* Furui Bai, Wen Lu, Yuanfei Huang, Lin Zha and Jiachen Yang, "Densely convolutional attention network for image super-resolution", Neurocomputing, 2019, 368: 25-33. [paper](https://www.sciencedirect.com/science/article/pii/S0925231219312081)
+* Zhikang Wang, Lihuo He, Xinbo Gao and **Yuanfei Huang**, "Multi-scale Spatial-temporal Network for Person Re-identification," in 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2019, pp. 2052-2056. [paper](https://ieeexplore.ieee.org/abstract/document/8683716)
+* Rui Wang, Wen Lu, Jiacheng Yang, **Yuanfei Huang**, Xinbo Gao and Lihuo He, "Single Image Super Resolution Based on Deep Residual Network via Lateral Modules," in 2018 IEEE International Conference on Image Processing (**ICIP**), 2018, pp. 3568-3572. [paper](https://ieeexplore.ieee.org/abstract/document/8451670)
 
-*Jan 2021*  One paper is accepted to IEEE TIP.
 
-*May 2019*  One paper is accepted to IEEE TCSVT, congratulations to Yanting Hu.
+# Services
+## Journal Reviewer
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* IEEE Transactions on Image Processing (TIP)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Multimedia (TMM)
+* IEEE Transactions on Instrumentation and Measurement (TIM)
+* IEEE Transactions on Intelligent Vehicles (TIV)
+* Computer Vision and Image Understanding (CVIU)
+* Neural Networks
+* Signal Processing (SP)
+* Neurocomputing
+* Knowledge-Based Systems (KBS)
+* 自动化学报
 
-*Jul 2018*  One paper is accepted to IEEE TIP.
-
-Publications
-======
-**Yuanfei Huang**, Jie Li, Yanting Hu, Xinbo Gao and Hua Huang*, "Transitive Learning: Exploring the Transitivity of Degradations for Blind Super-Resolution", IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(5): 6495-6510. [paper](https://ieeexplore.ieee.org/document/9893392/)  [code](https://github.com/YuanfeiHuang/TLSR)
-
-**Yuanfei Huang**, Jie Li, Xinbo Gao*, Yanting Hu and Wen Lu, "Interpretable Detail-Fidelity Attention Network for Single Image Super-Resolution", IEEE Transactions on Image Processing (**TIP**), vol.30, pp.2325-2339, 2021.  [paper](https://ieeexplore.ieee.org/document/9334407)  [code](https://github.com/YuanfeiHuang/DeFiAN)
-
-**Yuanfei Huang**, Jie Li, Xinbo Gao*, Lihuo He and Wen Lu, "Single Image Super-resolution via Multiple Mixture Prior Models", IEEE Transactions on Image Processing (**TIP**), vol.27, pp.5904-5917, 2018. [paper](https://ieeexplore.ieee.org/document/8421656)  [code](https://github.com/YuanfeiHuang/MMPM)
-
-**Yuanfei Huang**, Jie Li, Yanting Hu, Hua Huang and Xinbo Gao*, "Deep Convolution Modulation for Image Super-resolution", Under Review.
-
-Yanting Hu, **Yuanfei Huang***, Kaibing Zhang, "Multi-scale information distillation network for efficient image super-resolution", Knowledge-Based Systems (**KBS**), vol.275, pp.110718, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0950705123004689)  [code](https://github.com/YuanfeiHuang/MSID)
-
-Yanting Hu, Jie Li, **Yuanfei Huang** and Xinbo Gao*, "Image Super-Resolution With Self-Similarity Prior Guided Network and Sample-Discriminating Learning," IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol.32, no.4, pp.1966-1985, 2022. [paper](https://ieeexplore.ieee.org/document/9467283)
-
-Yanting Hu, Jie Li, **Yuanfei Huang** and Xinbo Gao*, "Channel-Wise and Spatial Feature Modulation Network for Single Image Super-Resolution," IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol.30, no.11, pp.3911-3927, 2020. [paper](https://ieeexplore.ieee.org/document/8708220)
-
-Services
-======
-**Journal Reviewer**:
-
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-
-  IEEE Transactions on Image Processing (TIP)
-
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-
-  IEEE Transactions on Multimedia (TMM)
-
-  IEEE Transactions on Instrumentation and Measurement (TIM)
-
-  IEEE Transactions on Intelligent Vehicles (TIV)
-
-  Signal Processing (SP)
-
-  Neurocomputing
-
-  Computer Vision and Image Understanding (CVIU)
-
-  Knowledge-Based Systems (KBS)
-
-  自动化学报
+## Conference Reviewer
+* CVPR 2021
+* AAAI 2020
