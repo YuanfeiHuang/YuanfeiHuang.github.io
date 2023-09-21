@@ -23,7 +23,7 @@ My research interests broadly include image and video processing, computer visio
 
 # Publications
 ## First or Corresponding Author
-* **Yuanfei Huang**, Jie Li, Yanting Hu, Hua Huang and Xinbo Gao, "Deep Convolution Modulation for Image Super-resolution", IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023. (**Accepted**)
+* **Yuanfei Huang**, Jie Li, Yanting Hu, Hua Huang and Xinbo Gao, "Deep Convolution Modulation for Image Super-resolution", IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023, Early Access. [paper](https://ieeexplore.ieee.org/document/10256095) [code](https://github.com/YuanfeiHuang/CoMoNet)
 * Yanting Hu, **Yuanfei Huang** and Kaibing Zhang, "Multi-scale information distillation network for efficient image super-resolution", Knowledge-Based Systems (**KBS**), 2023, 275: 110718. [paper](https://www.sciencedirect.com/science/article/pii/S0950705123004689)  [code](https://github.com/YuanfeiHuang/MSID)
 * **Yuanfei Huang**, Jie Li, Yanting Hu, Xinbo Gao and Hua Huang, "Transitional Learning: Exploring the Transition States of Degradation for Blind Super-resolution", IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(5): 6495-6510. [paper](https://ieeexplore.ieee.org/document/9893392/)  [code](https://github.com/YuanfeiHuang/TLSR)
 * **Yuanfei Huang**, Jie Li, Xinbo Gao, Yanting Hu and Wen Lu, "Interpretable Detail-Fidelity Attention Network for Single Image Super-Resolution", IEEE Transactions on Image Processing (**TIP**), 2021, 30: 2325-2339.  [paper](https://ieeexplore.ieee.org/document/9334407)  [code](https://github.com/YuanfeiHuang/DeFiAN)
