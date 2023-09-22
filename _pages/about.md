@@ -53,6 +53,7 @@ My research interests broadly include image and video processing, computer visio
 * Signal Processing (SP)
 * Neurocomputing
 * Knowledge-Based Systems (KBS)
+* Journal of Visual Communication and Image Representation (JVCIR)
 * 自动化学报
 
 ## Conference Reviewer
