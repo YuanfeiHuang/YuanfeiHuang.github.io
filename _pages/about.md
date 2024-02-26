@@ -39,7 +39,6 @@ My research interests broadly include image and video processing, computer visio
 * Zhikang Wang, Lihuo He, Xinbo Gao and **Yuanfei Huang**, "Multi-scale Spatial-temporal Network for Person Re-identification," in 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2019, pp. 2052-2056. [paper](https://ieeexplore.ieee.org/abstract/document/8683716)
 * Rui Wang, Wen Lu, Jiacheng Yang, **Yuanfei Huang**, Xinbo Gao and Lihuo He, "Single Image Super Resolution Based on Deep Residual Network via Lateral Modules," in 2018 IEEE International Conference on Image Processing (**ICIP**), 2018, pp. 3568-3572. [paper](https://ieeexplore.ieee.org/abstract/document/8451670)
 
-
 # Services
 ## Journal Reviewer
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
