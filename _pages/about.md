@@ -46,15 +46,9 @@ My research interests broadly include image and video processing, computer visio
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Instrumentation and Measurement (TIM)
-* IEEE Transactions on Intelligent Vehicles (TIV)
 * Computer Vision and Image Understanding (CVIU)
-* Neural Networks
-* Signal Processing (SP)
-* Neurocomputing
-* Knowledge-Based Systems (KBS)
-* Journal of Visual Communication and Image Representation (JVCIR)
 * 自动化学报
 
 ## Conference Reviewer
-* CVPR 2021
-* AAAI 2020
+* CVPR
+* AAAI
