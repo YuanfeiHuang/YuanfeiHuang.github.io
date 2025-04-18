@@ -24,12 +24,13 @@ My research interest includes computer vision and signal processing, with specia
 - *Image restoration*: super-resolution, denoising, etc.
 - *Object Perception*: object detection and recognition in remote sensing imagery.
 
+Location: Room 526, Library Building, Changping Campus, Beijing Normal University, Changping District, Beijing, China.
+
 We are looking for self-motivated undergraduate interns, graduate students, and collaborators to join us. If you are interested, please email me with your resume.
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
-Location: Room 526, Library Building, Changping Campus, Beijing Normal University, Changping District, Beijing, China.
-
 # 📝 Selected Publications 
+***More are available in [Google Scholar](https://scholar.google.com/citations?user=HcwtiyUAAAAJ)***
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
 <div class="badge" style="background-color: #f39c12; color: white">arXiv 2024</div>  
