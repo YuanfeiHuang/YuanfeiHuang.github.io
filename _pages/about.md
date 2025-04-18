@@ -33,7 +33,22 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 # 📝 Publications 
 
-<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div><div class="badge">TCSVT 2024</div>  
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #2ecc71; color: white">arXiv 2024</div>  
+<img src='images/2024arXiv_Condformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer](https://arxiv.org/abs/2407.09094)
+- **Yuanfei Huang**; Hua Huang
+- *Under Review*
+- A new perspective on the denoising challenge by highlighting the distinct separation between noise and image priors.
+- [**Code**](https://github.com/YuanfeiHuang/Condformer)
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">TCSVT 2024</div>  
 <img src='images/2024TCSVT_CoMoNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
@@ -46,7 +61,8 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 </div>  
 </div>  
 
-<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div><div class="badge">TCSVT 2024</div>  
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">TGRS 2024</div>  
 <img src='images/2024TGRS_ACASP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
@@ -54,9 +70,10 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - Jinyi Qiu; Zhan Wang; **Yuanfei Huang**; Hua Huang
 - IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 1-12, Art no. 5006512.
 - A gradient domain-based DRC method for IR images with adaptive contrast adjustment and structure preservation.
--  
+
 </div>  
 </div>  
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
