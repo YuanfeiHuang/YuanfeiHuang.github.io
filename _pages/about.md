@@ -21,11 +21,11 @@ I am a lecturer at the School of Artificial Intelligence, Beijing Normal Univers
 of Electronic Engineering, Xidian University, in 2021 under the supervision of Prof. [Xinbo Gao](https://web.xidian.edu.cn/xbgao/) and Prof. Jie Li.
 
 My research interest includes computer vision and signal processing, with specialized expertise in: 
-*Image restoration*: super-resolution, denoising, etc.
-*Object Perception*: object detection and recognition in remote sensing imagery.
+- *Image restoration*: super-resolution, denoising, etc.
+- *Object Perception*: object detection and recognition in remote sensing imagery.
 
 We are looking for self-motivated undergraduate interns, graduate students, and collaborators to join us. If you are interested, please email me with your resume.
-欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。
+*欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
 %# 🔥 News
 %- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
