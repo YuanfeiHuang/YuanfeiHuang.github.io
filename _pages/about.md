@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/1dedaf45-0730-46a4-9abd-dd57307c8ba3)---
 permalink: /
 title: "About me"
 excerpt: ""
@@ -164,17 +164,14 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 </div>  
 </div>  
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💼 Projects and Fundings
+- *2024* the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
+- *2022* the National Natural Science Foundation of China (国家自然科学基金青年项目)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards
+- *2024* Beijing Association for Science and Technology Youth Talent Support Program (北京科协青年人才托举工程)
+- *2024* 2nd Prize in the 19th Young Teachers' Teaching Skills Competition of Beijing Normal University (北京师范大学第十九届青年教师教学基本功比赛二等奖)
+- *2024* 1st Prize in the 10th Beijing College Students' Biology Competition (Advisor) (第十届北京市大学生生物学竞赛一等奖（指导教师）)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.11*, "Intelligent Perception Empowering Autonomous Driving"(智能感知助力自动驾驶), a Cross-disciplinary Exchange Salon for Young Scientific Talents in the Field of Image and Graphics (图象图形领域青年科技人才跨界交流沙龙). Location: Beijing Conference Center, Organizer: Beijing Society of Image and Graphics.
