@@ -164,7 +164,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 </div>  
 </div>  
 
-# 💼 Projects and Fundings
+#  Projects and Fundings
 - *2024* the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
 - *2022* the National Natural Science Foundation of China (国家自然科学基金青年项目)
 
