@@ -27,10 +27,6 @@ My research interest includes computer vision and signal processing, with specia
 We are looking for self-motivated undergraduate interns, graduate students, and collaborators to join us. If you are interested, please email me with your resume.
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
-%# 🔥 News %
-%- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %
-%- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %
-
 # 📝 Publications 
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
@@ -68,12 +64,38 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Infrared Image Dynamic Range Compression Based on Adaptive Contrast Adjustment and Structure Preservation](https://ieeexplore.ieee.org/abstract/document/10689442)
 - Jinyi Qiu; Zhan Wang; **Yuanfei Huang**; Hua Huang
-- IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 1-12, Art no. 5006512.
+- *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 1-12, Art no. 5006512.
 - A gradient domain-based DRC method for IR images with adaptive contrast adjustment and structure preservation.
 
 </div>  
 </div>  
 
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">JEIT 2024</div>  
+<img src='images/2024JEIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Shutter-less Non-uniformity Correction Methods in Uncooled Infrared Imagery](https://jeit.ac.cn/article/doi/10.11999/JEIT231400)
+- **Yuanfei Huang**; Hua Huang
+- *Journal of Electronics & Information Technology (电子与信息学报)*, 2024, 46(5): 2198-2216.
+- A survey on the physical formation and spatial characteristics of the non-uniformity in uncooled infrared imagery detectors.
+
+</div>  
+</div>  
+
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">KBS 2023</div>  
+<img src='images/2023KBS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Multi-scale information distillation network for efficient image super-resolution](https://www.sciencedirect.com/science/article/pii/S0950705123004689)
+- Yanting Hu &dagger; **Yuanfei Huang**&dagger *; Kaibing Zhang
+- *Knowledge-Based Systems*, 2023, 275：1-14, 2023, Art no. 110718.
+- A lightweight super-resolution network with multi-scale receptive field.
+
+</div>  
+</div>  
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
