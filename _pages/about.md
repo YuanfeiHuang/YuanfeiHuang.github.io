@@ -29,6 +29,8 @@ Location: Room 526, Library Building, Changping Campus, Beijing Normal Universit
 We are looking for self-motivated undergraduate interns, graduate students, and collaborators to join us. If you are interested, please email me with your resume.
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
+# 🔥 News
+
 # 📝 Selected Publications 
 ***More are available in [Google Scholar](https://scholar.google.com/citations?user=HcwtiyUAAAAJ)***
 
