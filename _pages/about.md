@@ -37,11 +37,10 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 <div class='paper-box-text' markdown="1">
 
 [Deep Convolution Modulation for Image Super-resolution](https://ieeexplore.ieee.org/document/10256095)
-
 [**Code**](https://github.com/YuanfeiHuang/CoMoNet)
 - **Yuanfei Huang**; Jie Li; Yanting Hu; Hua Huang; Xinbo Gao
-- *IEEE TCSVT*, 2024, 34(5): 3647-3662.
-- Proposing a convolution modulation (CoMo) mechanism to build image-specific deep networks, thereby adaptively modulating the kernel weights without additional parameters. 
+- *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(5): 3647-3662.
+- Building image-specific deep networks, thereby adaptively modulating the kernel weights without additional parameters. 
 </div>
 </div>
 
