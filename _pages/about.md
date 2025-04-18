@@ -33,7 +33,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/2024TCSVT_CoMoNet.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/2024TCSVT_CoMoNet.png' alt="sym" width="100%"><div><div>
 <div class='paper-box-text' markdown="1">
 [Deep Convolution Modulation for Image Super-resolution](https://ieeexplore.ieee.org/document/10256095)
 - **Yuanfei Huang**; Jie Li; Yanting Hu; Hua Huang; Xinbo Gao
