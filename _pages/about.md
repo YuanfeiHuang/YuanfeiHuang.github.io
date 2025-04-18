@@ -33,16 +33,22 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/2024TCSVT_CoMoNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display: flex; width: 100%;">  
+  <div class='paper-box-image' style="flex: 0 0 30%;">  
+    <div>  
+      <div class="badge">TCSVT 2024</div>  
+      <img src='images/2024TCSVT_CoMoNet.png' alt="sym" width="100%">  
+    </div>  
+  </div>  
+  <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1">  
+    [Deep Convolution Modulation for Image Super-resolution](https://ieeexplore.ieee.org/document/10256095)
+    - **Yuanfei Huang**; Jie Li; Yanting Hu; Hua Huang; Xinbo Gao
+    - *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(5): 3647-3662.
+    - Building image-specific deep networks, thereby adaptively modulating the kernel weights without additional parameters.
+    - [**Code**](https://github.com/YuanfeiHuang/CoMoNet)
+  </div>  
+</div>  
   
-[Deep Convolution Modulation for Image Super-resolution](https://ieeexplore.ieee.org/document/10256095)
-- **Yuanfei Huang**; Jie Li; Yanting Hu; Hua Huang; Xinbo Gao
-- *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(5): 3647-3662.
-- Building image-specific deep networks, thereby adaptively modulating the kernel weights without additional parameters.
-- [**Code**](https://github.com/YuanfeiHuang/CoMoNet)
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
