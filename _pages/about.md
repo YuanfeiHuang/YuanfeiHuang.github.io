@@ -27,6 +27,8 @@ My research interest includes computer vision and signal processing, with specia
 We are looking for self-motivated undergraduate interns, graduate students, and collaborators to join us. If you are interested, please email me with your resume.
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
+Location: Room 526, Library Building, Changping Campus, Beijing Normal University, Changping District, Beijing, China.
+
 # 📝 Publications 
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
