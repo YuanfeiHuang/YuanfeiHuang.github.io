@@ -33,9 +33,9 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 # 📝 Publications 
 
-<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 25%;"><div><div class="badge">TCSVT 2024</div>  
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div><div class="badge">TCSVT 2024</div>  
 <img src='images/2024TCSVT_CoMoNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="flex: 0 0 75%; padding-left: 20px;" markdown="1"> 
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
 [Deep Convolution Modulation for Image Super-resolution](https://ieeexplore.ieee.org/document/10256095)
 - **Yuanfei Huang**; Jie Li; Yanting Hu; Hua Huang; Xinbo Gao
@@ -45,7 +45,18 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 </div>  
 </div>  
-  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div><div class="badge">TCSVT 2024</div>  
+<img src='images/2024TGRS_ACASP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Infrared Image Dynamic Range Compression Based on Adaptive Contrast Adjustment and Structure Preservation](https://ieeexplore.ieee.org/abstract/document/10689442)
+- Jinyi Qiu; Zhan Wang; **Yuanfei Huang**; Hua Huang
+- IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 1-12, Art no. 5006512.
+- A gradient domain-based DRC method for IR images with adaptive contrast adjustment and structure preservation.
+-  
+</div>  
+</div>  
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
