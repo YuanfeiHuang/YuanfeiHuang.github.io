@@ -29,10 +29,10 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 Location: Room 526, Library Building, Changping Campus, Beijing Normal University, Changping District, Beijing, China.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
-<div class="badge" style="background-color: #2ecc71; color: white">arXiv 2024</div>  
+<div class="badge" style="background-color: #f39c12; color: white">arXiv 2024</div>  
 <img src='images/2024arXiv_Condformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
@@ -60,6 +60,19 @@ Location: Room 526, Library Building, Changping Campus, Beijing Normal Universit
 </div>  
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">JEIT 2024</div>  
+<img src='images/2024JEIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Shutter-less Non-uniformity Correction Methods in Uncooled Infrared Imagery](https://jeit.ac.cn/article/doi/10.11999/JEIT231400)
+- **Yuanfei Huang**; Hua Huang
+- *Journal of Electronics & Information Technology (电子与信息学报)*, 2024, 46(5): 2198-2216.
+- A survey on the physical formation and spatial characteristics of the non-uniformity in uncooled infrared imagery detectors.
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
 <div class="badge" style="background-color: #3498db; color: white">TGRS 2024</div>  
 <img src='images/2024TGRS_ACASP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
@@ -73,28 +86,79 @@ Location: Room 526, Library Building, Changping Campus, Beijing Normal Universit
 </div>  
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
-<div class="badge" style="background-color: #3498db; color: white">JEIT 2024</div>  
-<img src='images/2024JEIT.png' alt="sym" width="100%"></div></div>
+<div class="badge" style="background-color: #3498db; color: white">TPAMI 2023</div>  
+<img src='images/2023TPAMI_TLSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
-[Shutter-less Non-uniformity Correction Methods in Uncooled Infrared Imagery](https://jeit.ac.cn/article/doi/10.11999/JEIT231400)
-- **Yuanfei Huang**; Hua Huang
-- *Journal of Electronics & Information Technology (电子与信息学报)*, 2024, 46(5): 2198-2216.
-- A survey on the physical formation and spatial characteristics of the non-uniformity in uncooled infrared imagery detectors.
+[Transitional Learning: Exploring the Transition States of Degradation for Blind Super-resolution](https://ieeexplore.ieee.org/abstract/document/9893392)
+- **Yuanfei Huang**; Jie Li; Yanting Hu; Xinbo Gao; Hua Huang
+- *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023, 45(5): 6495-6510.
+- A transitional learning method for blind super-resolution and an effective representation for unknown degradation.
 
 </div>  
 </div>  
-
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
 <div class="badge" style="background-color: #3498db; color: white">KBS 2023</div>  
-<img src='images/2023KBS.png' alt="sym" width="100%"></div></div>
+<img src='images/2023KBS_MSID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
 [Multi-scale information distillation network for efficient image super-resolution](https://www.sciencedirect.com/science/article/pii/S0950705123004689)
-- Yanting Hu &dagger; **Yuanfei Huang**&dagger *; Kaibing Zhang
+- Yanting Hu &dagger; **Yuanfei Huang** &dagger *; Kaibing Zhang
 - *Knowledge-Based Systems*, 2023, 275：1-14, 2023, Art no. 110718.
 - A lightweight super-resolution network with multi-scale receptive field.
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">TIP 2021</div>  
+<img src='images/2021TIP_DeFiAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Interpretable Detail-Fidelity Attention Network for Single Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9334407)
+- **Yuanfei Huang**; Jie Li; Xinbo Gao; Yanting Hu; Wen Lu
+- *IEEE Transactions on Image Processing*, 2021, 30: 2325-2339.
+- An interpretable detail-fidelity attention network for improving image super-resolution.
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #2ecc71; color: white">ICCVW 2019</div>  
+<img src='images/2019ICCVW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Un-Paired Real World Super-Resolution with Degradation Consistency](https://ieeexplore.ieee.org/abstract/document/9022113)
+- **Yuanfei Huang**; Xiaopeng Sun; Wen Lu; Jie Li; Xinbo Gao
+- In *IEEE/CVF International Conference on Computer Vision Workshop*, 2019.
+- 2nd place on "Target Domain RWSR" track of the AIM Real-World Super-Resolution Challenge.
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #2ecc71; color: white">ICME 2019</div>  
+<img src='images/2019ICME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Improving Image Super-Resolution via Feature Re-Balancing Fusion](https://ieeexplore.ieee.org/abstract/document/8784891)
+- **Yuanfei Huang**; Jie Li; Xinbo Gao; Wen Lu; Yanting Hu
+- In *IEEE International Conference on Multimedia and Expo*, 2019.
+- 2nd place on "Target Domain RWSR" track of the AIM Real-World Super-Resolution Challenge.
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">TIP 2018</div>  
+<img src='images/2018TIP_MMPM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Single Image Super-Resolution via Multiple Mixture Prior Models](https://ieeexplore.ieee.org/abstract/document/8421656)
+- **Yuanfei Huang**; Jie Li; Xinbo Gao; Lihuo He; Wen Lu
+- *IEEE Transactions on Image Processing*, 2018, 27(12): 5904-5917.
+- An effective way with mixture prior models for image super-resolution.
 
 </div>  
 </div>  
