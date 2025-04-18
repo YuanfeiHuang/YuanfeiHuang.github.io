@@ -105,7 +105,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
 [Multi-scale information distillation network for efficient image super-resolution](https://www.sciencedirect.com/science/article/pii/S0950705123004689)
-- Yanting Hu; **Yuanfei Huang** &dagger ; Kaibing Zhang
+- Yanting Hu; **Yuanfei Huang** &dagger; Kaibing Zhang
 - *Knowledge-Based Systems*, 2023, 275：1-14, 2023, Art no. 110718.
 - A lightweight super-resolution network with multi-scale receptive field.
 
