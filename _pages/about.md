@@ -97,6 +97,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - **Yuanfei Huang**; Jie Li; Yanting Hu; Xinbo Gao; Hua Huang
 - *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023, 45(5): 6495-6510.
 - A transitional learning method for blind super-resolution and an effective representation for unknown degradation.
+- [**Code**](https://github.com/YuanfeiHuang/TLSR)
 
 </div>  
 </div>  
@@ -123,6 +124,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - **Yuanfei Huang**; Jie Li; Xinbo Gao; Yanting Hu; Wen Lu
 - *IEEE Transactions on Image Processing*, 2021, 30: 2325-2339.
 - An interpretable detail-fidelity attention network for improving image super-resolution.
+- [**Code**](https://github.com/YuanfeiHuang/DeFiAN)
 
 </div>  
 </div>  
@@ -162,6 +164,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - **Yuanfei Huang**; Jie Li; Xinbo Gao; Lihuo He; Wen Lu
 - *IEEE Transactions on Image Processing*, 2018, 27(12): 5904-5917.
 - An effective way with mixture prior models for image super-resolution.
+- [**Code**](https://github.com/YuanfeiHuang/MMPM)
 
 </div>  
 </div>  
