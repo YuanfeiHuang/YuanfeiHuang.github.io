@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a lecturer at the School of Artificial Intelligence, Beijing Normal University, where I work in the [Intelligent Media Computing Lab](https://vmcl.bnu.edu.cn/) led by Prof. [Hua Huang](https://ai.bnu.edu.cn/xygk/szdw/zgj/194482e0996d4044806ac39019896e9c.htm). I obtained my Ph.D. degree from the School
-of Electronic Engineering, Xidian University, in 2021 under the supervision of Prof. [Xinbo Gao](https://web.xidian.edu.cn/xbgao/) and Prof. Jie Li.
+I am a lecturer at the [School of Artificial Intelligence](https://ai.bnu.edu.cn/), Beijing Normal University, Beijing, China since 2021, where I work in the [Intelligent Media Computing Lab](https://vmcl.bnu.edu.cn/) led by Prof. [Hua Huang](https://ai.bnu.edu.cn/xygk/szdw/zgj/194482e0996d4044806ac39019896e9c.htm). I received my Ph.D. degree in 2021 from the [Video & Image Processing System Lab](https://see.xidian.edu.cn/vipsl/index.html), affiliated with the School of Electronic Engineering, Xidian University, Xi'an, China, under the supervision of Prof. [Xinbo Gao](https://web.xidian.edu.cn/xbgao/) and Prof. Jie Li.
 
 My research interest includes computer vision and signal processing, with specialized expertise in: 
 - *Image restoration*: super-resolution, denoising, etc.
