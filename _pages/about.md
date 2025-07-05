@@ -29,6 +29,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
 # 🔥 News
+**2025.07**, DeflareMamba is accepted by ACMMM 2025, congratulations to Yihang.
 
 # 📝 Selected Publications 
 ***More are available in [Google Scholar](https://scholar.google.com/citations?user=HcwtiyUAAAAJ)***
