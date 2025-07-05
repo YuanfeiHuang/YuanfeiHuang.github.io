@@ -34,6 +34,20 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 ***More are available in [Google Scholar](https://scholar.google.com/citations?user=HcwtiyUAAAAJ)***
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #f39c12; color: white">ACMMM 2025</div>  
+<img src='images/2025ACMMM_DeflareMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal]
+- Yihang Huang; **Yuanfei Huang#**; Junhui Lin; Hua Huang
+- *Accepted by ACMMM 2025*
+- Introducing state space models to the flare removal task, which leverages the efficient sequence modeling capabilities of state space models while maintaining the ability to capture local-global dependencies.
+- **Code** (Coming Soon)
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
 <div class="badge" style="background-color: #f39c12; color: white">arXiv 2024</div>  
 <img src='images/2024arXiv_Condformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
@@ -149,7 +163,6 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 [Improving Image Super-Resolution via Feature Re-Balancing Fusion](https://ieeexplore.ieee.org/abstract/document/8784891)
 - **Yuanfei Huang**; Jie Li; Xinbo Gao; Wen Lu; Yanting Hu
 - In *IEEE International Conference on Multimedia and Expo*, 2019.
-- 2nd place on "Target Domain RWSR" track of the AIM Real-World Super-Resolution Challenge.
 
 </div>  
 </div>  
