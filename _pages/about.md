@@ -29,10 +29,25 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
 # 🔥 News
-**2025.07**, DeflareMamba is accepted by ACMMM 2025, congratulations to Yihang.
+**2025.07**, ***Condformer*** is accepted by IJCV.
+**2025.07**, ***DeflareMamba*** is accepted by ACMMM 2025, congratulations to Yihang.
 
 # 📝 Selected Publications 
 ***More are available in [Google Scholar](https://scholar.google.com/citations?user=HcwtiyUAAAAJ)***
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">IJCV 2025</div>  
+<img src='images/2024arXiv_Condformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer](https://arxiv.org/abs/2407.09094)
+- **Yuanfei Huang**; Hua Huang
+- *Accepted by IJCV*
+- A new perspective on the denoising challenge by highlighting the distinct separation between noise and image priors.
+- [**Code**](https://github.com/YuanfeiHuang/Condformer)
+
+</div>  
+</div>  
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
 <div class="badge" style="background-color: #f39c12; color: white">ACMMM 2025</div>  
@@ -44,20 +59,6 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - *Accepted by ACMMM 2025*
 - Introducing state space models to the flare removal task, which leverages the efficient sequence modeling capabilities of state space models while maintaining the ability to capture local-global dependencies.
 - **Code** (Coming Soon)
-
-</div>  
-</div>  
-
-<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
-<div class="badge" style="background-color: #f39c12; color: white">arXiv 2024</div>  
-<img src='images/2024arXiv_Condformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
-
-[Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer](https://arxiv.org/abs/2407.09094)
-- **Yuanfei Huang**; Hua Huang
-- *Under Review*
-- A new perspective on the denoising challenge by highlighting the distinct separation between noise and image priors.
-- [**Code**](https://github.com/YuanfeiHuang/Condformer)
 
 </div>  
 </div>  
