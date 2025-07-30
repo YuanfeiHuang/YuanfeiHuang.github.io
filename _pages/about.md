@@ -30,6 +30,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 # 🔥 News
 **2025.07**, ***Condformer*** is accepted by IJCV.
+
 **2025.07**, ***DeflareMamba*** is accepted by ACMMM 2025, congratulations to Yihang.
 
 # 📝 Selected Publications 
@@ -50,7 +51,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 </div>  
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
-<div class="badge" style="background-color: #f39c12; color: white">ACMMM 2025</div>  
+<div class="badge" style="background-color: #2ecc71; color: white">ACMMM 2025</div>  
 <img src='images/2025ACMMM_DeflareMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
