@@ -212,22 +212,23 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 # 🧑‍🎓 Group Members
 ## PhD Students
-Jinyi Qiu (2021f-Present, Coadviser: Hua Huang)
+Jinyi Qiu (邱津怡, 2021f-Present, Coadviser: Hua Huang, Research Interest: *Infrared Image/Video Dynamic Range Compression*)
 
 ## Master Students
-Junqiao Wang (2023f-Present, Coadviser: Hua Huang)
+Junqiao Wang (王俊桥, 2023f-Present, Coadviser: Hua Huang, Research Interest: *Flare Removal*)
 
-Jinlong Ren (2024f-Present)
+Jinlong Ren (任金龙, 2024f-Present, Research Interest: *SAR Object Detection*)
 
-Sisi Wu (2024f-Present, Coadviser: Lizhi Wang)
+Sisi Wu (2024f-Present, Coadviser: Lizhi Wang, Research Interest: *SAR Mechanism*)
 
-Xudong Wang (2025f-Present)
+Xudong Wang (2025f-Present, Research Interest: *SAR Object Detection*)
 
-Haojie Li (2025f-Present)
+Haojie Li (2025f-Present, Research Interest: *Multi-Sensor-based Object Detection*)
 
-Zijia Fu (2025f-Present)
+Zijia Fu (2025f-Present, Research Interest: *Change Detection*)
 
 ## Undergraduate Interns
-Yihang Huang (2024-2025, Graduated, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences)
+Junhui Lin (2024-Present, Research Interest: *Video Frame Interpolation*)
 
-Junhui Lin (2024-Present)
+Yihang Huang (2024-2025, Graduated, Research Interest: *Flare Removal*, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences)
+
