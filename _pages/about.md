@@ -219,16 +219,16 @@ Junqiao Wang (王俊桥, 2023f-Present, Coadviser: Hua Huang, Research Interest:
 
 Jinlong Ren (任金龙, 2024f-Present, Research Interest: *SAR Object Detection*)
 
-Sisi Wu (2024f-Present, Coadviser: Lizhi Wang, Research Interest: *SAR Mechanism*)
+Sisi Wu (吴思思, 2024f-Present, Coadviser: Lizhi Wang, Research Interest: *SAR Mechanism*)
 
-Xudong Wang (2025f-Present, Research Interest: *SAR Object Detection*)
+Xudong Wang (王旭东, 2025f-Present, Research Interest: *SAR Object Detection*)
 
-Haojie Li (2025f-Present, Research Interest: *Multi-Sensor-based Object Detection*)
+Haojie Li (李昊颉, 2025f-Present, Research Interest: *Multi-Sensor-based Object Detection*)
 
-Zijia Fu (2025f-Present, Research Interest: *Change Detection*)
+Zijia Fu (傅紫家, 2025f-Present, Research Interest: *Change Detection*)
 
 ## Undergraduate Interns
-Junhui Lin (2024-Present, Research Interest: *Video Frame Interpolation*)
+Junhui Lin (林峻辉, 2024-Present, Research Interest: *Video Frame Interpolation*)
 
-Yihang Huang (2024-2025, Graduated, Research Interest: *Flare Removal*, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences)
+Yihang Huang (黄一航, 2024-2025, Graduated, Research Interest: *Flare Removal*, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences)
 
