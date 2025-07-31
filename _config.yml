@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanfei Huang"
+title                    : "Yuanfei Huang (黄源飞)"
 description              : "Academic Homepage of Yuanfei Huang. "
 repository               : "YuanfeiHuang/YuanfeiHuang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuanfei Huang"
+  name             : "Yuanfei Huang (黄源飞)"
   avatar           : "images/me.png"
   bio              : "Beijing Normal University"
   location         : "Beijing, China"
