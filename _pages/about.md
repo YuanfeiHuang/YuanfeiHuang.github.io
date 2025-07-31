@@ -37,20 +37,6 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 ***More are available in [Google Scholar](https://scholar.google.com/citations?user=HcwtiyUAAAAJ)***
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
-<div class="badge" style="background-color: #FFA500; color: white">arXiv 2025</div>  
-<img src='images/2025arXiv_WIN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
-
-[Tackling Ill-posedness of Reversible Image Conversion with Well-posed Invertible Network]
-- **Yuanfei Huang**; Hua Huang
-- *Under Review*
-- A well-posed invertible convolution by constructing an overdetermined system with a non-zero Gram determinant, enabling reliable invertible models and achieving state-of-the-art results on various reversible image conversion tasks, including image hiding/steganagraphy, image rescaling, and reversible image decolorization.
-- [**Code**](https://github.com/YuanfeiHuang/WIN)
-
-</div>  
-</div>  
-
-<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
 <div class="badge" style="background-color: #3498db; color: white">IJCV 2025</div>  
 <img src='images/2024arXiv_Condformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
@@ -74,6 +60,20 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - *Accepted by ACMMM 2025*
 - Introducing state space models to the flare removal task, which leverages the efficient sequence modeling capabilities of state space models while maintaining the ability to capture local-global dependencies.
 - [**Code**](https://github.com/hyhsjd2/DeflareMamba)
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #FFA500; color: white">arXiv 2025</div>  
+<img src='images/2025arXiv_WIN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Tackling Ill-posedness of Reversible Image Conversion with Well-posed Invertible Network]
+- **Yuanfei Huang**; Hua Huang
+- *Under Review*
+- A well-posed invertible convolution by constructing an overdetermined system with a non-zero Gram determinant, enabling reliable invertible models and achieving state-of-the-art results on various reversible image conversion tasks, including image hiding/steganagraphy, image rescaling, and reversible image decolorization.
+- [**Code**](https://github.com/YuanfeiHuang/WIN)
 
 </div>  
 </div>  
