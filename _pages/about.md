@@ -209,3 +209,25 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 # 💬 Invited Talks
 - *2024.11*, "Intelligent Perception Empowering Autonomous Driving"(智能感知助力自动驾驶), a Cross-disciplinary Exchange Salon for Young Scientific Talents in the Field of Image and Graphics (图象图形领域青年科技人才跨界交流沙龙). Location: Beijing Conference Center, Organizer: Beijing Society of Image and Graphics.
+
+# 🧑‍🎓 Group Members
+## PhD Students
+Jinyi Qiu (2021f-Present, Coadviser: Hua Huang)
+
+## Master Students
+Junqiao Wang (2023f-Present, Coadviser: Hua Huang)
+
+Jinlong Ren (2024f-Present)
+
+Sisi Wu (2024f-Present, Coadviser: Lizhi Wang)
+
+Xudong Wang (2025f-Present)
+
+Haojie Li (2025f-Present)
+
+Zijia Fu (2025f-Present)
+
+## Undergraduate Interns
+Yihang Huang (2024-2025, Graduated, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences)
+
+Junhui Lin (2024-Present)
