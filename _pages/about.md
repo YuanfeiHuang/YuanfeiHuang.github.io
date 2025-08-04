@@ -45,7 +45,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - **Yuanfei Huang**; Hua Huang
 - *Accepted by IJCV*
 - A new perspective on the denoising challenge by highlighting the distinct separation between noise and image priors.
-- [**Code**](https://github.com/YuanfeiHuang/Condformer)
+- [**Code**](https://github.com/BNU-ERC-ITEA/Condformer)
 
 </div>  
 </div>  
@@ -59,7 +59,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - Yihang Huang; **Yuanfei Huang#**; Junhui Lin; Hua Huang
 - *Accepted by ACMMM 2025*
 - Introducing state space models to the flare removal task, which leverages the efficient sequence modeling capabilities of state space models while maintaining the ability to capture local-global dependencies.
-- [**Code**](https://github.com/hyhsjd2/DeflareMamba)
+- [**Code**](https://github.com/BNU-ERC-ITEA/DeflareMamba)
 
 </div>  
 </div>  
@@ -73,7 +73,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - **Yuanfei Huang**; Hua Huang
 - *Under Review*
 - A well-posed invertible convolution by constructing an overdetermined system with a non-zero Gram determinant, enabling reliable invertible models and achieving state-of-the-art results on various reversible image conversion tasks, including image hiding/steganagraphy, image rescaling, and reversible image decolorization.
-- [**Code**](https://github.com/YuanfeiHuang/WIN)
+- [**Code**](https://github.com/BNU-ERC-ITEA/WIN)
 
 </div>  
 </div>  
@@ -208,6 +208,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - *2024* 1st Prize in the 10th Beijing College Students' Biology Competition (Advisor) (第十届北京市大学生生物学竞赛一等奖（指导教师）)
 
 # 💬 Invited Talks
+- *2025.07*, Panel Session on "Exploring the Integration of SAR and Large Foundations Models" （前瞻对话：SAR与大模型的跨界融合）, The 2nd Radar Academic Frontier Conference (第二届雷达学术前沿大会), RAFC 2025. Location: Shanghai. 
 - *2024.11*, "Intelligent Perception Empowering Autonomous Driving"(智能感知助力自动驾驶), a Cross-disciplinary Exchange Salon for Young Scientific Talents in the Field of Image and Graphics (图象图形领域青年科技人才跨界交流沙龙). Location: Beijing Conference Center, Organizer: Beijing Society of Image and Graphics.
 
 # 🧑‍🎓 Group Members
