@@ -55,7 +55,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 <img src='images/2025ACMMM_DeflareMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
-[DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal]
+[DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal](https://arxiv.org/abs/2508.02113)
 - Yihang Huang; **Yuanfei Huang#**; Junhui Lin; Hua Huang
 - *Accepted by ACMMM 2025*
 - Introducing state space models to the flare removal task, which leverages the efficient sequence modeling capabilities of state space models while maintaining the ability to capture local-global dependencies.
@@ -69,7 +69,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 <img src='images/2025arXiv_WIN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
-[Tackling Ill-posedness of Reversible Image Conversion with Well-posed Invertible Network]
+[Tackling Ill-posedness of Reversible Image Conversion with Well-posed Invertible Network](https://arxiv.org/abs/2508.02111)
 - **Yuanfei Huang**; Hua Huang
 - *Under Review*
 - A well-posed invertible convolution by constructing an overdetermined system with a non-zero Gram determinant, enabling reliable invertible models and achieving state-of-the-art results on various reversible image conversion tasks, including image hiding/steganagraphy, image rescaling, and reversible image decolorization.
