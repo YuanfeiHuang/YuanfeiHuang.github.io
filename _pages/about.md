@@ -43,7 +43,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer](https://link.springer.com/article/10.1007/s11263-025-02553-w)
 - **Yuanfei Huang**; Hua Huang
-- *Accepted by IJCV*
+- *International Journal of Computer Vision (IJCV)*, 2025.
 - A new perspective on the denoising challenge by highlighting the distinct separation between noise and image priors.
 - [**Code**](https://github.com/BNU-ERC-ITEA/Condformer)
 
@@ -57,7 +57,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal](https://arxiv.org/abs/2508.02113)
 - Yihang Huang; **Yuanfei Huang#**; Junhui Lin; Hua Huang
-- *Accepted by ACMMM 2025*
+- *ACM Multimedia*, 2025, Accepted.
 - Introducing state space models to the flare removal task, which leverages the efficient sequence modeling capabilities of state space models while maintaining the ability to capture local-global dependencies.
 - [**Code**](https://github.com/BNU-ERC-ITEA/DeflareMamba)
 
@@ -85,7 +85,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Deep Convolution Modulation for Image Super-resolution](https://ieeexplore.ieee.org/document/10256095)
 - **Yuanfei Huang**; Jie Li; Yanting Hu; Hua Huang; Xinbo Gao
-- *IEEE Transactions on Circuits and Systems for Video Technology*, 2024, 34(5): 3647-3662.
+- *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2024, 34(5): 3647-3662.
 - Building image-specific deep networks, thereby adaptively modulating the kernel weights without additional parameters.
 - [**Code**](https://github.com/YuanfeiHuang/CoMoNet)
 
@@ -112,7 +112,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Infrared Image Dynamic Range Compression Based on Adaptive Contrast Adjustment and Structure Preservation](https://ieeexplore.ieee.org/abstract/document/10689442)
 - Jinyi Qiu; Zhan Wang; **Yuanfei Huang**; Hua Huang
-- *IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 1-12, Art no. 5006512.
+- *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024, 62: 1-12, Art no. 5006512.
 - A gradient domain-based DRC method for IR images with adaptive contrast adjustment and structure preservation.
 
 </div>  
@@ -125,7 +125,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Transitional Learning: Exploring the Transition States of Degradation for Blind Super-resolution](https://ieeexplore.ieee.org/abstract/document/9893392)
 - **Yuanfei Huang**; Jie Li; Yanting Hu; Xinbo Gao; Hua Huang
-- *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023, 45(5): 6495-6510.
+- *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023, 45(5): 6495-6510.
 - A transitional learning method for blind super-resolution and an effective representation for unknown degradation.
 - [**Code**](https://github.com/YuanfeiHuang/TLSR)
 
@@ -139,7 +139,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Multi-scale information distillation network for efficient image super-resolution](https://www.sciencedirect.com/science/article/pii/S0950705123004689)
 - Yanting Hu; **Yuanfei Huang#**; Kaibing Zhang
-- *Knowledge-Based Systems*, 2023, 275：1-14, 2023, Art no. 110718.
+- *Knowledge-Based Systems (KBS)*, 2023, 275：1-14, 2023, Art no. 110718.
 - A lightweight super-resolution network with multi-scale receptive field.
 
 </div>  
@@ -152,7 +152,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Interpretable Detail-Fidelity Attention Network for Single Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9334407)
 - **Yuanfei Huang**; Jie Li; Xinbo Gao; Yanting Hu; Wen Lu
-- *IEEE Transactions on Image Processing*, 2021, 30: 2325-2339.
+- *IEEE Transactions on Image Processing (TIP)*, 2021, 30: 2325-2339.
 - An interpretable detail-fidelity attention network for improving image super-resolution.
 - [**Code**](https://github.com/YuanfeiHuang/DeFiAN)
 
@@ -166,7 +166,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Un-Paired Real World Super-Resolution with Degradation Consistency](https://ieeexplore.ieee.org/abstract/document/9022113)
 - **Yuanfei Huang**; Xiaopeng Sun; Wen Lu; Jie Li; Xinbo Gao
-- In *IEEE/CVF International Conference on Computer Vision Workshop*, 2019.
+- In *IEEE/CVF International Conference on Computer Vision (ICCV) Workshop*, 2019.
 - 2nd place on "Target Domain RWSR" track of the AIM Real-World Super-Resolution Challenge.
 
 </div>  
@@ -179,7 +179,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Improving Image Super-Resolution via Feature Re-Balancing Fusion](https://ieeexplore.ieee.org/abstract/document/8784891)
 - **Yuanfei Huang**; Jie Li; Xinbo Gao; Wen Lu; Yanting Hu
-- In *IEEE International Conference on Multimedia and Expo*, 2019.
+- In *IEEE International Conference on Multimedia and Expo (ICME)*, 2019.
 
 </div>  
 </div>  
@@ -191,7 +191,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Single Image Super-Resolution via Multiple Mixture Prior Models](https://ieeexplore.ieee.org/abstract/document/8421656)
 - **Yuanfei Huang**; Jie Li; Xinbo Gao; Lihuo He; Wen Lu
-- *IEEE Transactions on Image Processing*, 2018, 27(12): 5904-5917.
+- *IEEE Transactions on Image Processing (TIP)*, 2018, 27(12): 5904-5917.
 - An effective way with mixture prior models for image super-resolution.
 - [**Code**](https://github.com/YuanfeiHuang/MMPM)
 
