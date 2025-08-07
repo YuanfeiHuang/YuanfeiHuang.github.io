@@ -41,7 +41,7 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 <img src='images/2024arXiv_Condformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
-[Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer](https://arxiv.org/abs/2407.09094)
+[Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer](https://link.springer.com/article/10.1007/s11263-025-02553-w)
 - **Yuanfei Huang**; Hua Huang
 - *Accepted by IJCV*
 - A new perspective on the denoising challenge by highlighting the distinct separation between noise and image priors.
