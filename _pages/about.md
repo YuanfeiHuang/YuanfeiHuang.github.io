@@ -29,6 +29,8 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
 # 🔥 News
+**2025.08**, ***GLTC*** is accepted by TGRS, congratulations to Jinyi.
+
 **2025.07**, ***Condformer*** is accepted by IJCV.
 
 **2025.07**, ***DeflareMamba*** is accepted by ACMMM 2025, congratulations to Yihang.
@@ -60,6 +62,19 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - *ACM Multimedia*, 2025, Accepted.
 - Introducing state space models to the flare removal task, which leverages the efficient sequence modeling capabilities of state space models while maintaining the ability to capture local-global dependencies.
 - [**Code**](https://github.com/BNU-ERC-ITEA/DeflareMamba)
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">TGRS 2025</div>  
+<img src='images/2025TGRS_GLTC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Infrared Video Dynamic Range Compression Based on Global and Local Temporal Coherence](https://ieeexplore.ieee.org/document/11133462)
+- Jinyi Qiu, **Yuanfei Huang**; Hua Huang
+- *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025.
+- An IR video dynamic range compression method based on global and local temporal coherence.
 
 </div>  
 </div>  
