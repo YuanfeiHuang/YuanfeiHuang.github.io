@@ -29,6 +29,8 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
 # 🔥 News
+**2025.12**, congratulations to Jinyi Qiu on earning her ***PhD degree***.
+
 **2025.08**, ***GLTC*** is accepted by TGRS, congratulations to Jinyi.
 
 **2025.07**, ***Condformer*** is accepted by IJCV.
@@ -221,14 +223,11 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - *2024* Beijing Association for Science and Technology Youth Talent Support Program (北京科协青年人才托举工程)
 - *2024* 2nd Prize in the 19th Young Teachers' Teaching Skills Competition of Beijing Normal University (北京师范大学第十九届青年教师教学基本功比赛二等奖)
 - *2024* 1st Prize in the 10th Beijing College Students' Biology Competition (Advisor) (第十届北京市大学生生物学竞赛一等奖（指导教师）)
-
-# 💬 Invited Talks
-- *2025.07*, Panel Session on "Exploring the Integration of SAR and Large Foundations Models" （前瞻对话：SAR与大模型的跨界融合）, The 2nd Radar Academic Frontier Conference (第二届雷达学术前沿大会), RAFC 2025. Location: Shanghai. 
-- *2024.11*, "Intelligent Perception Empowering Autonomous Driving"(智能感知助力自动驾驶), a Cross-disciplinary Exchange Salon for Young Scientific Talents in the Field of Image and Graphics (图象图形领域青年科技人才跨界交流沙龙). Location: Beijing Conference Center, Organizer: Beijing Society of Image and Graphics.
+- Back in the day ...🤪🤪🤪 *2015* Best Film Award, the 1st Microfilm Competition in HEBUT — 《Killing Me》(serving as the Director and the Lead Actor) 
 
 # 🧑‍🎓 Group Members
 ## PhD Students
-Jinyi Qiu (邱津怡), 2021f-Present, Coadviser: Hua Huang, Research Interest: *Infrared Image/Video Dynamic Range Compression*
+Jinyi Qiu (邱津怡), 2021f-2025, Coadviser: Hua Huang, Research Interest: *Infrared Image/Video Dynamic Range Compression*
 
 ## Master Students
 Junqiao Wang (王俊桥), 2023f-Present, Coadviser: Hua Huang, Research Interest: *Flare Removal*
