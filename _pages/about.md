@@ -225,27 +225,28 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - *2024* Beijing Association for Science and Technology Youth Talent Support Program (北京科协青年人才托举工程)
 - *2024* 2nd Prize in the 19th Young Teachers' Teaching Skills Competition of Beijing Normal University (北京师范大学第十九届青年教师教学基本功比赛二等奖)
 - *2024* 1st Prize in the 10th Beijing College Students' Biology Competition (Advisor) (第十届北京市大学生生物学竞赛一等奖（指导教师）)
-- Back in the day ...🤪🤪🤪 *2015* Best Film Award, the 1st Microfilm Competition in HEBUT — 《Killing Me》(serving as the Director and the Lead Actor) 
+- Back in the day ...🤪🤪🤪 *2015* Best Film Award, the 1st Microfilm Competition in HEBUT — 《Killing Me》(serving as the Director and the Lead Actor)
 
-%# 🧑‍🎓 Group Members
-%## PhD Students
-%Jinyi Qiu (邱津怡), 2021f-2025, Coadviser: Hua Huang, Research Interest: *Infrared Image/Video Dynamic Range Compression*
-%
-%## Master Students
-%Junqiao Wang (王俊桥), 2023f-Present, Coadviser: Hua Huang, Research Interest: *Flare Removal*
-%
-%Jinlong Ren (任金龙), 2024f-Present, Research Interest: *SAR Object Detection*
-%
-%Sisi Wu (吴思思), 2024f-Present, Coadviser: Lizhi Wang, Research Interest: *SAR Mechanism*
-%
-%Xudong Wang (王旭东), 2025f-Present, Research Interest: *SAR Object Detection*
-%
-%Haojie Li (李昊颉), 2025f-Present, Research Interest: *Multi-Sensor-based Object Detection*
-%
-%Zijia Fu (傅紫家), 2025f-Present, Research Interest: *Change Detection*
-%
-%## Undergraduate Interns
-%Junhui Lin (林峻辉), 2024-Present, Research Interest: *Video Frame Interpolation*
-%
-%Yihang Huang (黄一航), 2024-2025, Graduated, Research Interest: *Flare Removal*, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences (中科院计算所)
+<!-- 
+# 🧑‍🎓 Group Members
+## PhD Students
+Jinyi Qiu (邱津怡), 2021f-2025, Coadviser: Hua Huang, Research Interest: *Infrared Image/Video Dynamic Range Compression*
 
+## Master Students
+Junqiao Wang (王俊桥), 2023f-Present, Coadviser: Hua Huang, Research Interest: *Flare Removal*
+
+Jinlong Ren (任金龙), 2024f-Present, Research Interest: *SAR Object Detection*
+
+Sisi Wu (吴思思), 2024f-Present, Coadviser: Lizhi Wang, Research Interest: *SAR Mechanism*
+
+Xudong Wang (王旭东), 2025f-Present, Research Interest: *SAR Object Detection*
+
+Haojie Li (李昊颉), 2025f-Present, Research Interest: *Multi-Sensor-based Object Detection*
+
+Zijia Fu (傅紫家), 2025f-Present, Research Interest: *Change Detection*
+
+## Undergraduate Interns
+Junhui Lin (林峻辉), 2024-Present, Research Interest: *Video Frame Interpolation*
+
+Yihang Huang (黄一航), 2024-2025, Graduated, Research Interest: *Flare Removal*, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences (中科院计算所)
+-->
