@@ -20,8 +20,8 @@ redirect_from:
 I am a lecturer at the [School of Artificial Intelligence](https://ai.bnu.edu.cn/), Beijing Normal University, Beijing, China since 2021, where I work in the [Intelligent Media Computing Lab](https://vmcl.bnu.edu.cn/) led by Prof. [Hua Huang (黄华)](https://ai.bnu.edu.cn/xygk/szdw/zgj/194482e0996d4044806ac39019896e9c.htm). I received my Ph.D. degree in 2021 from the [Video & Image Processing System Lab](https://see.xidian.edu.cn/vipsl/index.html), affiliated with the School of Electronic Engineering, Xidian University, Xi'an, China, under the supervision of Prof. [Xinbo Gao (高新波)](https://web.xidian.edu.cn/xbgao/) and Prof. Jie Li (李洁).
 
 My research interest includes computer vision and signal processing, with specialized expertise in: 
-- *Image restoration*: super-resolution, denoising, etc.
-- *Object Perception*: object detection and recognition in remote sensing imagery.
+- *Object Perception*: object detection and recognition in SAR imagery.
+- *Image restoration*: flare removal, super-resolution, denoising, etc.
 
 Location: Room 526, Library Building, Changping Campus, Beijing Normal University, Changping District, Beijing, China.
 
@@ -29,6 +29,8 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 *欢迎本科科研实习生，研究生加入我们团队！有意向的同学请发送邮件给我。*
 
 # 🔥 News
+**2026.01**, ***WIN*** is accepted by TPAMI.
+
 **2025.12**, congratulations to Jinyi Qiu on earning her ***PhD degree***.
 
 **2025.08**, ***GLTC*** is accepted by TGRS, congratulations to Jinyi.
@@ -41,13 +43,27 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 ***More are available in [Google Scholar](https://scholar.google.com/citations?user=HcwtiyUAAAAJ)***
 
 <div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
+<div class="badge" style="background-color: #3498db; color: white">TPAMI 2026</div>  
+<img src='images/2025arXiv_WIN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
+
+[Tackling Ill-posedness of Reversible Image Conversion with Well-posed Invertible Network](https://arxiv.org/abs/2508.02111)
+- **Yuanfei Huang**; Hua Huang
+- *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2026. **Accepted**.
+- A well-posed invertible convolution by constructing an overdetermined system with a non-zero Gram determinant, enabling reliable invertible models and achieving state-of-the-art results on various reversible image conversion tasks, including image hiding/steganagraphy, image rescaling, and reversible image decolorization.
+- [**Code**](https://github.com/BNU-ERC-ITEA/WIN)
+
+</div>  
+</div>  
+
+<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
 <div class="badge" style="background-color: #3498db; color: white">IJCV 2025</div>  
 <img src='images/2024arXiv_Condformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
 [Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer](https://link.springer.com/article/10.1007/s11263-025-02553-w)
 - **Yuanfei Huang**; Hua Huang
-- *International Journal of Computer Vision (IJCV)*, 2025.
+- *International Journal of Computer Vision (IJCV)*, 2025, 133: 7591–7611.
 - A new perspective on the denoising challenge by highlighting the distinct separation between noise and image priors.
 - [**Code**](https://github.com/BNU-ERC-ITEA/Condformer)
 
@@ -59,9 +75,9 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 <img src='images/2025ACMMM_DeflareMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
 
-[DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal](https://arxiv.org/abs/2508.02113)
+[DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal](https://dl.acm.org/doi/10.1145/3746027.3755263)
 - Yihang Huang; **Yuanfei Huang#**; Junhui Lin; Hua Huang
-- *ACM Multimedia*, 2025, Accepted.
+- *ACM Multimedia*, 2025, Pages 8028 - 8037.
 - Introducing state space models to the flare removal task, which leverages the efficient sequence modeling capabilities of state space models while maintaining the ability to capture local-global dependencies.
 - [**Code**](https://github.com/BNU-ERC-ITEA/DeflareMamba)
 
@@ -75,22 +91,8 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 
 [Infrared Video Dynamic Range Compression Based on Global and Local Temporal Coherence](https://ieeexplore.ieee.org/document/11133462)
 - Jinyi Qiu, **Yuanfei Huang**; Hua Huang
-- *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025.
+- *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025, 63: 5006412.
 - An IR video dynamic range compression method based on global and local temporal coherence.
-
-</div>  
-</div>  
-
-<div class='paper-box' style="display: flex; width: 100%;"><div class='paper-box-image' style="flex: 0 0 30%;"><div>
-<div class="badge" style="background-color: #FFA500; color: white">arXiv 2025</div>  
-<img src='images/2025arXiv_WIN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="flex: 0 0 70%; padding-left: 20px;" markdown="1"> 
-
-[Tackling Ill-posedness of Reversible Image Conversion with Well-posed Invertible Network](https://arxiv.org/abs/2508.02111)
-- **Yuanfei Huang**; Hua Huang
-- *Under Review*
-- A well-posed invertible convolution by constructing an overdetermined system with a non-zero Gram determinant, enabling reliable invertible models and achieving state-of-the-art results on various reversible image conversion tasks, including image hiding/steganagraphy, image rescaling, and reversible image decolorization.
-- [**Code**](https://github.com/BNU-ERC-ITEA/WIN)
 
 </div>  
 </div>  
@@ -225,25 +227,25 @@ We are looking for self-motivated undergraduate interns, graduate students, and 
 - *2024* 1st Prize in the 10th Beijing College Students' Biology Competition (Advisor) (第十届北京市大学生生物学竞赛一等奖（指导教师）)
 - Back in the day ...🤪🤪🤪 *2015* Best Film Award, the 1st Microfilm Competition in HEBUT — 《Killing Me》(serving as the Director and the Lead Actor) 
 
-# 🧑‍🎓 Group Members
-## PhD Students
-Jinyi Qiu (邱津怡), 2021f-2025, Coadviser: Hua Huang, Research Interest: *Infrared Image/Video Dynamic Range Compression*
-
-## Master Students
-Junqiao Wang (王俊桥), 2023f-Present, Coadviser: Hua Huang, Research Interest: *Flare Removal*
-
-Jinlong Ren (任金龙), 2024f-Present, Research Interest: *SAR Object Detection*
-
-Sisi Wu (吴思思), 2024f-Present, Coadviser: Lizhi Wang, Research Interest: *SAR Mechanism*
-
-Xudong Wang (王旭东), 2025f-Present, Research Interest: *SAR Object Detection*
-
-Haojie Li (李昊颉), 2025f-Present, Research Interest: *Multi-Sensor-based Object Detection*
-
-Zijia Fu (傅紫家), 2025f-Present, Research Interest: *Change Detection*
-
-## Undergraduate Interns
-Junhui Lin (林峻辉), 2024-Present, Research Interest: *Video Frame Interpolation*
-
-Yihang Huang (黄一航), 2024-2025, Graduated, Research Interest: *Flare Removal*, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences (中科院计算所)
+%# 🧑‍🎓 Group Members
+%## PhD Students
+%Jinyi Qiu (邱津怡), 2021f-2025, Coadviser: Hua Huang, Research Interest: *Infrared Image/Video Dynamic Range Compression*
+%
+%## Master Students
+%Junqiao Wang (王俊桥), 2023f-Present, Coadviser: Hua Huang, Research Interest: *Flare Removal*
+%
+%Jinlong Ren (任金龙), 2024f-Present, Research Interest: *SAR Object Detection*
+%
+%Sisi Wu (吴思思), 2024f-Present, Coadviser: Lizhi Wang, Research Interest: *SAR Mechanism*
+%
+%Xudong Wang (王旭东), 2025f-Present, Research Interest: *SAR Object Detection*
+%
+%Haojie Li (李昊颉), 2025f-Present, Research Interest: *Multi-Sensor-based Object Detection*
+%
+%Zijia Fu (傅紫家), 2025f-Present, Research Interest: *Change Detection*
+%
+%## Undergraduate Interns
+%Junhui Lin (林峻辉), 2024-Present, Research Interest: *Video Frame Interpolation*
+%
+%Yihang Huang (黄一航), 2024-2025, Graduated, Research Interest: *Flare Removal*, Current Institution: Institute of Computing Technology, Chinese Academy of Sciences (中科院计算所)
 
